@@ -13,6 +13,7 @@ export const CompletedRow = ({ guess, win = false }: Props) => {
           {guess.split('').map((letter, i) => (
             <Cell key={i} value={letter} status={statuses[i]} completed={true} delay={i * 150} win={win} />
           ))}
+          <Cell value={"T"} status={"correct"}/>
       </div>
     )
 }

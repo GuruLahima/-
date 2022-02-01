@@ -137,7 +137,7 @@ function App() {
             <Alert message="Копирано во clipboard за споделулвање" isOpen={shareComplete} variant="success" />
             <div className="flex w-80 mx-auto items-center mb-2">
                 <QuestionMarkCircleIcon className="h-6 w-6 cursor-pointer" onClick={() => setIsInfoModalOpen(true)} />
-                <h1 className="text-4xl text-center text-slate-700 tracking-widest grow uppercase font-bold">Зборле</h1>
+                <h1 className="text-4xl text-center text-slate-700 tracking-widest grow uppercase font-bold">ЗборлеT</h1>
                 <ChartBarIcon className="h-6 w-6 cursor-pointer" onClick={() => setIsStatsModalOpen(true)} />
             </div>
             <Grid

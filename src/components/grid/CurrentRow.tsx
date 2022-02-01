@@ -17,6 +17,7 @@ export const CurrentRow = ({ guess, invalid = false, win = false }: Props) => {
           {emptyCells.map((_, i) => (
             <Cell key={i} />
           ))}
+          <Cell value={"T"} status={"correct"}/>
       </div>
     )
 }
