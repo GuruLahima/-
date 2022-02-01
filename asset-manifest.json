@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zborlet/static/css/main.ee970594.css",
-    "main.js": "/zborlet/static/js/main.53b4528b.js",
-    "static/js/787.3500bfec.chunk.js": "/zborlet/static/js/787.3500bfec.chunk.js",
-    "index.html": "/zborlet/index.html",
-    "main.ee970594.css.map": "/zborlet/static/css/main.ee970594.css.map",
-    "main.53b4528b.js.map": "/zborlet/static/js/main.53b4528b.js.map",
-    "787.3500bfec.chunk.js.map": "/zborlet/static/js/787.3500bfec.chunk.js.map"
+    "main.css": "/static/css/main.ee970594.css",
+    "main.js": "/static/js/main.18f60462.js",
+    "static/js/787.3500bfec.chunk.js": "/static/js/787.3500bfec.chunk.js",
+    "index.html": "/index.html",
+    "main.ee970594.css.map": "/static/css/main.ee970594.css.map",
+    "main.18f60462.js.map": "/static/js/main.18f60462.js.map",
+    "787.3500bfec.chunk.js.map": "/static/js/787.3500bfec.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee970594.css",
-    "static/js/main.53b4528b.js"
+    "static/js/main.18f60462.js"
   ]
 }
